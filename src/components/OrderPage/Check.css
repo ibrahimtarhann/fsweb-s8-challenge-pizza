@@ -1,0 +1,11 @@
+.check {
+  font-weight: bold;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 100px;
+}
+
+.check label {
+  display: flex;
+  gap: 15px;
+}
